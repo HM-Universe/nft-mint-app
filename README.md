@@ -27,5 +27,3 @@ A Free and Open source NFT minting platform
 - ~~Handle loading states~~
 - ~~Styling improvements~~
 - Take the user to the OpenSea link once deployed
-
-## Contributors ✨
